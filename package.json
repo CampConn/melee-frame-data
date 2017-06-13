@@ -1,0 +1,30 @@
+{
+  "name": "melee-app",
+  "version": "1.0.0",
+  "description": "directory for melee frame data",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CampConn/melee-frame-data"
+  },
+  "keywords": [
+    "melee"
+  ],
+  "author": "Connor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CampConn/melee-frame-data/issues"
+  },
+  "homepage": "https://github.com/CampConn/melee-frame-data#readme"
+}

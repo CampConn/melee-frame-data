@@ -1,0 +1,189 @@
+{
+	{
+		"name": "Dr Mario",
+		"photo": ,
+		"rank": ,
+		"moves": {
+			"normal": {
+				"jab": {
+
+				},
+				"f-tilt": {
+
+				},
+				"up-tilt": {
+
+				},
+				"down-tilt": {
+
+				}
+			},
+			"smash": {
+				"f-smash": {
+
+				},
+				"up-smash": {
+
+				},
+				"down-smash": {
+					
+				}
+			},
+			"special": {
+				"neutral-b": {
+
+				},				
+				"side-b": {
+
+				},
+				"up-b": {
+
+				},
+				"down-b": {
+					
+				}
+			},
+			"aerial": {
+				"nair": {
+
+				},				
+				"fair": {
+
+				},
+				"up-air": {
+
+				},
+				"bair": {
+					
+				},
+				"dair": {
+					
+				}
+			},
+			"grab": {
+				"normal-grab": {
+
+				},
+				"dash-grab": {
+
+				},
+				"pummel": {
+
+				},
+				"forward-throw": {
+
+				},
+				"up-throw": {
+
+				},
+				"back-throw": {
+
+				},
+				"down-throw": {
+
+				}
+			},
+			"defensive": {
+				"full-shield": ,
+				"spot-dodge": {
+
+				},
+				"forward-roll": {
+
+				},
+				"back-roll": {
+
+				}
+			},
+			"movement": {
+				"short-hop": {
+
+				},
+				"full-hop": {
+
+				},
+				"perfect-wavedash": {
+
+				},
+				"dash": {
+
+				},
+				"run-speed":{
+					
+				}
+			}
+		}
+	},
+	{
+		"name": "Mario",
+	},
+	{
+		"name": "Luigi",
+	},
+	{
+		"name": "Bowser",
+	},
+	{
+		"name": "Peach",
+	},
+	{
+		"name": "Yoshi",
+	},
+	{
+		"name": "DK",
+	},
+	{
+		"name": "Captain Falcon",
+	},
+	{
+		"name": "Ganondorf",
+	},
+	{
+		"name": "Falco",
+	},
+	{
+		"name": "Fox",
+	},
+	{
+		"name": "Ness",
+	},
+	{
+		"name": "Ice Climbers",
+	},
+	{
+		"name": "Kirby",
+	},
+	{
+		"name": "Samus",
+	},
+	{
+		"name": "Zelda/Sheik",
+	},
+	{
+		"name": "Link",
+	},
+	{
+		"name": "Young Link",
+	},
+	{
+		"name": "Pichu",
+	},
+	{
+		"name": "Pikachu",
+	},
+	{
+		"name": "Jigglypuff",
+	},
+	{
+		"name": "Mewtwo",
+	},
+	{
+		"name": "Mr Game & Watch",
+	},
+	{
+		"name": "Marth",
+	},
+	{
+		"name": "Roy",
+	}
+}

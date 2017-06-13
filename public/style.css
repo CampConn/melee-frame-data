@@ -1,0 +1,22 @@
+.menu {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	width: 576px;
+	height: 168px;
+	justify-content: center;
+	margin: 0 auto;
+	/*background-color: rgb(119, 132, 151);*/
+}
+
+.character {
+	flex: 1 11%;
+	max-width: 64px;
+	height: 56px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.character img {
+	position: absolute;
+}
