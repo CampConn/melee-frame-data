@@ -6,14 +6,14 @@ var exphbs = require('express-handlebars');
 var hbs = require('handlebars');
 
 var characters = require('./characters');
-//var bodyParser = require('body-parser');
+var bodyParser = require('body-parser');
 //var orderData = require('./orderData');
 var port = process.env.PORT || 3000;
 
 
 app.engine('handlebars',exphbs({defaultLayout: 'main'}));
 app.set('view engine','handlebars');
-//app.use(bodyParser.json());
+app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname,'public')));
 
 /*hbs.registerHelper("list",function(items,options){
@@ -26,12 +26,17 @@ app.use(express.static(path.join(__dirname,'public')));
 
 app.get('/',function(req,res,next){
 
-  var chars = characters;
+  var chars = [];
+  //console.log(chars);
+
+  for(var i=0; i<characters.length; i++)
+    chars.push(characters[i]);
 
   var tempArgs = {
-    names: chars.name;
+    names: chars,
   }
 
+  console.log(chars);
   res.render('select.handlebars', tempArgs); /*,tempArgs);*/
 
 });
@@ -57,11 +62,11 @@ app.get('/',function(req,res,next){
 }
 });*/
 
-app.get('*', function(req,res,next){
+/*app.get('*', function(req,res,next){
 
   res.render('404Page');
 
-});
+});*/
 
 app.listen(port, function(){
   console.log(' ==server listening on port', port);

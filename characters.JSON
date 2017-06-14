@@ -1,189 +1,77 @@
-{
+[
 	{
-		"name": "Dr Mario",
-		"photo": ,
-		"rank": ,
-		"moves": {
-			"normal": {
-				"jab": {
-
-				},
-				"f-tilt": {
-
-				},
-				"up-tilt": {
-
-				},
-				"down-tilt": {
-
-				}
-			},
-			"smash": {
-				"f-smash": {
-
-				},
-				"up-smash": {
-
-				},
-				"down-smash": {
-					
-				}
-			},
-			"special": {
-				"neutral-b": {
-
-				},				
-				"side-b": {
-
-				},
-				"up-b": {
-
-				},
-				"down-b": {
-					
-				}
-			},
-			"aerial": {
-				"nair": {
-
-				},				
-				"fair": {
-
-				},
-				"up-air": {
-
-				},
-				"bair": {
-					
-				},
-				"dair": {
-					
-				}
-			},
-			"grab": {
-				"normal-grab": {
-
-				},
-				"dash-grab": {
-
-				},
-				"pummel": {
-
-				},
-				"forward-throw": {
-
-				},
-				"up-throw": {
-
-				},
-				"back-throw": {
-
-				},
-				"down-throw": {
-
-				}
-			},
-			"defensive": {
-				"full-shield": ,
-				"spot-dodge": {
-
-				},
-				"forward-roll": {
-
-				},
-				"back-roll": {
-
-				}
-			},
-			"movement": {
-				"short-hop": {
-
-				},
-				"full-hop": {
-
-				},
-				"perfect-wavedash": {
-
-				},
-				"dash": {
-
-				},
-				"run-speed":{
-					
-				}
-			}
-		}
+		"Name": "Dr Mario"
 	},
 	{
-		"name": "Mario",
+		"Name": "Mario"
 	},
 	{
-		"name": "Luigi",
+		"Name": "Luigi"
 	},
 	{
-		"name": "Bowser",
+		"Name": "Bowser"
 	},
 	{
-		"name": "Peach",
+		"Name": "Peach"
 	},
 	{
-		"name": "Yoshi",
+		"Name": "Yoshi"
 	},
 	{
-		"name": "DK",
+		"Name": "DK"
 	},
 	{
-		"name": "Captain Falcon",
+		"Name": "Captain Falcon"
 	},
 	{
-		"name": "Ganondorf",
+		"Name": "Ganondorf"
 	},
 	{
-		"name": "Falco",
+		"Name": "Falco"
 	},
 	{
-		"name": "Fox",
+		"Name": "Fox"
 	},
 	{
-		"name": "Ness",
+		"Name": "Ness"
 	},
 	{
-		"name": "Ice Climbers",
+		"Name": "Ice Climbers"
 	},
 	{
-		"name": "Kirby",
+		"Name": "Kirby"
 	},
 	{
-		"name": "Samus",
+		"Name": "Samus"
 	},
 	{
-		"name": "Zelda/Sheik",
+		"Name": "Zelda"
 	},
 	{
-		"name": "Link",
+		"Name": "Link"
 	},
 	{
-		"name": "Young Link",
+		"Name": "Young Link"
 	},
 	{
-		"name": "Pichu",
+		"Name": "Pichu"
 	},
 	{
-		"name": "Pikachu",
+		"Name": "Pikachu"
 	},
 	{
-		"name": "Jigglypuff",
+		"Name": "Jigglypuff"
 	},
 	{
-		"name": "Mewtwo",
+		"Name": "Mewtwo"
 	},
 	{
-		"name": "Mr Game & Watch",
+		"Name": "Mr Game & Watch"
 	},
 	{
-		"name": "Marth",
+		"Name": "Marth"
 	},
 	{
-		"name": "Roy",
+		"Name": "Roy"
 	}
-}
+]
